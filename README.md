@@ -1,2 +1,2 @@
 # JavaProject
-Project in Java based on OOPS
+Project in Java.
